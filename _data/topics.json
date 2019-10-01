@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sports like Soccer, Basketball, Squash",
+    "image_url": "/assets/soccer.png"	
+  },
+  {
+    "name": "Playing my Instruments (Guitar, Bass, Banjo)",
+    "image_url": "/assets/guitar.png"	
+  },
+  {
+    "name": "Supporting Open Source and Developer Relations",
+    "image_url": "/assets/opensource.png"	
+  },
+  {
+    "name": "My lovely Cat Momo",
+    "image_url": "/assets/momo-circle.png"
+  },
+  {
+    "name": "Podcasts",
+    "image_url": "/assets/podcasts.png"
+  }
+]
