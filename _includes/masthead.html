@@ -11,7 +11,7 @@
 </p>
 
 {% if include.metadata %}
-  <div class="f4 mb-6">
+  <div class="f4 mb-2">
     {% if user.name %}
       <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
@@ -55,3 +55,13 @@
     {% endif %}
   </div>
 {% endif %}
+
+<ul class="no-bp">
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#professional">Professional Career</a></li>
+    <li><a href="#education">Academic Career</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#interests">Interests</a></li>
+</ul>
+
+
