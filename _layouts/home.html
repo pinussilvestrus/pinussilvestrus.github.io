@@ -17,8 +17,12 @@
     </div>
 
     <div class="my-6">
-        {% include education.html %}
-      </div>
+      {% include education.html %}
+    </div>
+
+    <div class="my-6">
+        {% include publications.html %}
+    </div>
 
     {% if site.topics %}
       <div class="my-6">
@@ -51,6 +55,8 @@
         {% include professional.html %}
 
         {% include education.html %}
+
+        {% include publications.html %}
 
         {% if site.topics %}
           {% include interests.html %}
