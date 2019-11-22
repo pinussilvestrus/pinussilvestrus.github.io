@@ -1,0 +1,10 @@
+[
+    {
+        "organization": "zeebe-io",
+        "name": "zeebe-modeler",
+        "html_url": "https://github.com/zeebe-io/zeebe-modeler",
+        "description": "Desktop Application for modeling Zeebe Workflows with BPMN",
+        "language": "JavaScript",
+        "stargazers_count": 92
+    }
+]
