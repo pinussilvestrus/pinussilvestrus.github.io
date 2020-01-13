@@ -6,5 +6,13 @@
         "description": "Desktop Application for modeling Zeebe Workflows with BPMN",
         "language": "JavaScript",
         "stargazers_count": 92
+    },
+    {
+        "organization": "bpmn-io",
+        "name": "vs-code-bpmn-io",
+        "html_url": "https://github.com/bpmn-io/vs-code-bpmn-op",
+        "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
+        "language": "TypeScript",
+        "stargazers_count": 16
     }
 ]
