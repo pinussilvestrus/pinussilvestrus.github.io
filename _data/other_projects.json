@@ -5,7 +5,7 @@
         "html_url": "https://github.com/zeebe-io/zeebe-modeler",
         "description": "Desktop Application for modeling Zeebe Workflows with BPMN",
         "language": "JavaScript",
-        "stargazers_count": 92
+        "stargazers_count": 104
     },
     {
         "organization": "bpmn-io",
@@ -13,6 +13,6 @@
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-op",
         "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
         "language": "TypeScript",
-        "stargazers_count": 16
+        "stargazers_count": 23
     }
 ]
