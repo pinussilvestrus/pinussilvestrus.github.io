@@ -10,7 +10,7 @@
     {
         "organization": "bpmn-io",
         "name": "vs-code-bpmn-io",
-        "html_url": "https://github.com/bpmn-io/vs-code-bpmn-op",
+        "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
         "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
         "language": "TypeScript",
         "stargazers_count": 23
