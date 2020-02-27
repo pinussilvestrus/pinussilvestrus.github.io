@@ -14,5 +14,13 @@
         "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
         "language": "TypeScript",
         "stargazers_count": 23
+    },
+    {
+        "organization": "excalidraw",
+        "name": "excalidraw-desktop",
+        "html_url": "https://github.com/excalidraw/excalidraw-desktop",
+        "description": "An Electron wrapper for excalidraw.com",
+        "language": "JavaScript",
+        "stargazers_count": 17
     }
 ]
