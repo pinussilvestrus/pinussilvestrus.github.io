@@ -1,9 +1,37 @@
-<h2 {% if site.style == 'dark' %}class="text-white"{% endif %} id="talks">Talks</h2>
-<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Stuff I talked about.</p>
+<h2 {% if site.style == 'dark' %}class="text-white"{% endif %} id="talks">Talks and Articles</h2>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Stuff I talked and wrote about.</p>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
 
   <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
-    {% include talk-card-link.html %}
+    <div class="github-component d-flex flex-column flex-justify-between height-full text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
+      <div>
+        <div class="d-flex flex-justify-between flex-items-start mb-1">
+          <h1 class="f4 lh-condensed mb-1">
+            <a href="https://github.com/pinussilvestrus/talks" target="_blank">
+                {% octicon comment-discussion height:20 class:"mr-1 v-align-middle" fill:"#586069" aria-label:repo %}
+                Slides Directory
+            </a>
+          </h1>
+        </div>
+        <div class="text-gray mb-2 ws-normal">Slides of past Talks</div>
+      </div>
+    </div>    
+  </div>
+
+  <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+    <div class="github-component d-flex flex-column flex-justify-between height-full text-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3">
+      <div>
+        <div class="d-flex flex-justify-between flex-items-start mb-1">
+          <h1 class="f4 lh-condensed mb-1">
+            <a href="https://github.com/pinussilvestrus/dev-articles" target="_blank">
+                {% octicon book height:20 class:"mr-1 v-align-middle" fill:"#586069" aria-label:repo %}
+                Articles Directory
+            </a>
+          </h1>
+        </div>
+        <div class="text-gray mb-2 ws-normal">Collection of DEV Articles</div>
+      </div>
+    </div>    
   </div>
 
   {% for job in site.data.talks %}
