@@ -5,7 +5,7 @@
         "html_url": "https://github.com/zeebe-io/zeebe-modeler",
         "description": "Desktop Application for modeling Zeebe Workflows with BPMN",
         "language": "JavaScript",
-        "stargazers_count": 147
+        "stargazers_count": 149
     },
     {
         "organization": "bpmn-io",
@@ -21,6 +21,6 @@
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
         "description": "An Electron wrapper for excalidraw.com",
         "language": "JavaScript",
-        "stargazers_count": 105
+        "stargazers_count": 114
     }
 ]
