@@ -1,0 +1,16 @@
+[
+    {
+      "name": "UX Thinking",
+      "trainer": "artop GmbH",
+      "description": "UX Thinking (UXT) is a training concept that enables product managers, product owners, UX professionals and software developers to plan and implement digital development projects in interdisciplinary teams in an agile and human-centered manner.",
+      "date": "11-2020",
+      "logo": "/assets/artop.png"
+    },
+    {
+      "name": "Camunda BPM for Java-Developers",
+      "description": "Three-day training for developers to prepare using the open source Camunda BPM platform successfully in software projects.",
+      "trainer": "camunda services GmbH",
+      "date": "04-2019",
+      "logo": "/assets/camunda.png"
+    }
+]
