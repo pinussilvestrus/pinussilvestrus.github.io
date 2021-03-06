@@ -5,7 +5,7 @@
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
         "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
         "language": "TypeScript",
-        "stargazers_count": 59
+        "stargazers_count": 64
     },
     {
         "organization": "excalidraw",
@@ -13,6 +13,6 @@
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
         "description": "An Electron wrapper for excalidraw.com",
         "language": "JavaScript",
-        "stargazers_count": 166
+        "stargazers_count": 167
     }
 ]
