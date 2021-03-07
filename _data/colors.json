@@ -1267,6 +1267,10 @@
         "color": "#46390b",
         "url": "https://github.com/trending?l=SuperCollider"
     },
+    "Svelte": {
+        "color": "#FF3E00",
+        "url":"https://github.com/trending?l=Svelte"
+    },
     "Swift": {
         "color": "#ffac45",
         "url": "https://github.com/trending?l=Swift"

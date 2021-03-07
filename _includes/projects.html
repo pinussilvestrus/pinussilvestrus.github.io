@@ -32,4 +32,16 @@
       </div>
     {% endunless %}
   {% endfor %}
+
+</div>
+
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">I'm a Software Engineer with a focus on experiments and prototypes.</p>
+<div class="d-sm-flex flex-wrap gutter-condensed mb-4">
+  {% for repository in filtered_repos %}
+    {% if site.data.prototype_projects contains repository.name %}
+      <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+        {% include repo-card.html %}
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
