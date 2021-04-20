@@ -3,16 +3,16 @@
         "organization": "bpmn-io",
         "name": "vs-code-bpmn-io",
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
-        "description": "Display and edit BPMN diagrams in VS Code using bpmn.io tools",
+        "description": "Edit BPMN 2.0 files. Based on bpmn.io tools.",
         "language": "TypeScript",
-        "stargazers_count": 66
+        "stargazers_count": 68
     },
     {
         "organization": "excalidraw",
         "name": "excalidraw-desktop",
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
-        "description": "An Electron wrapper for excalidraw.com",
+        "description": "An Electron wrapper for Excalidraw (Deprecated)",
         "language": "JavaScript",
-        "stargazers_count": 167
+        "stargazers_count": 169
     }
 ]
