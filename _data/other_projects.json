@@ -5,7 +5,7 @@
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
         "description": "Edit BPMN 2.0 files. Based on bpmn.io tools.",
         "language": "TypeScript",
-        "stargazers_count": 72
+        "stargazers_count": 76
     },
     {
         "organization": "excalidraw",
@@ -13,6 +13,6 @@
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
         "description": "An Electron wrapper for Excalidraw (Deprecated)",
         "language": "JavaScript",
-        "stargazers_count": 168
+        "stargazers_count": 169
     }
 ]
