@@ -1,7 +1,7 @@
 [
   {
-    "name": "Sports like Soccer, Basketball, Squash",
-    "image_url": "/assets/soccer.png"	
+    "name": "Sports like Soccer, Basketball, Darts",
+    "image_url": "/assets/darts.png"	
   },
   {
     "name": "Playing my Instruments (Guitar, Bass, Banjo)",
@@ -20,7 +20,7 @@
     "image_url": "/assets/momo-circle.png"
   },
   {
-    "name": "Podcasts",
-    "image_url": "/assets/podcasts.png"
+    "name": "Cooking",
+    "image_url": "/assets/cooking.png"
   }
 ]
