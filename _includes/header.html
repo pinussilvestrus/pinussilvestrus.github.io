@@ -10,6 +10,8 @@
 
 {% assign user = site.github.owner %}
 
+{% assign meta_type = 'website' %}
+
 {% if page.path contains '_posts' %}
   {% assign page_title = page.title %}
   {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
@@ -24,8 +26,9 @@
     <meta charset="utf-8">
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:type" content="{{ meta_type }}" />
     <meta property="og:title" content="{{ user.name }}" />
-    <meta property="og:image" content="{{ user.avatar_url }}" />
+    <meta property="og:image" content="/assets/preview.png" />
     <meta property="og:description" content="{{ meta_description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="google-site-verification" content="-U89CAQ1W3WMdJgepYq0ywA5JmMAeRmHg7JE49Ki-Wo" />
