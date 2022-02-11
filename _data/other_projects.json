@@ -8,6 +8,14 @@
         "stargazers_count": 82
     },
     {
+        "organization": "camunda",
+        "name": "element-templates-json-schema",
+        "html_url": "https://github.com/camunda/element-templates-json-schema",
+        "description": "JSON Schema for (Camunda) Element Templates",
+        "language": "JavaScript",
+        "stargazers_count": 6
+    },
+    {
         "organization": "excalidraw",
         "name": "excalidraw-desktop (archived)",
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
