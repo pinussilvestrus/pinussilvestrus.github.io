@@ -12,5 +12,12 @@
       "trainer": "camunda services GmbH",
       "date": "04-2019",
       "logo": "/assets/camunda.png"
+    },
+    {
+      "name": "Accessible Code",
+      "description": "In this course you will learn all there is to know about how to develop a fully accessible project by writing accessible code. In the end, it all comes down to having a different mindset and knowing how to develop in an accessible way.",
+      "trainer": "The A11Y Collective",
+      "date": "05-2022",
+      "logo": "/assets/a11ycollective.jpeg"
     }
 ]
