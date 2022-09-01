@@ -1,50 +1,58 @@
 [
-    {
-      "name": "camunda Services",
-      "url": "https://camunda.com",
-      "position": "Software Engineer",
-      "from": "10-2018",
-      "to": "now",
-      "logo": "/assets/camunda.png"
-    },
-    {
-        "name": "HPI Schul-Cloud",
-        "url": "https://schul-cloud.org",
-        "position": "Software Developer (Student)",
-        "from": "09-2016",
-        "to": "08-2018",
-        "logo": "/assets/schul-cloud.png"
-      },
-      {
-        "name": "HPI Business Process Technology Group",
-        "url": "https://bpt.hpi.uni-potsdam.de/Public",
-        "position": "Student Assistant",
-        "from": "09-2016",
-        "to": "04-2017",
-        "logo": "/assets/hpi.png"
-      },
-      {
-        "name": "ada Health",
-        "url": "https://ada.com",
-        "position": "Software Developer (Student)",
-        "from": "03-2015",
-        "to": "08-2016",
-        "logo": "/assets/ada.png"
-      },
-      {
-        "name": "andserve",
-        "url": "https://andserve.it",
-        "position": "Software Developer",
-        "from": "05-2014",
-        "to": "09-2016",
-        "logo": "/assets/andserve.png"
-      },
-      {
-        "name": "smartnweb",
-        "url": "https://smartnweb.de",
-        "position": "Tech Blogger",
-        "from": "03-2014",
-        "to": "01-2015",
-        "logo": "/assets/smartnweb.png"
-      }
+  {
+    "name": "camunda Services",
+    "url": "https://camunda.com",
+    "position": "Senior Software Engineer",
+    "from": "09-2022",
+    "to": "now",
+    "logo": "/assets/camunda.png"
+  },
+  {
+    "name": "camunda Services",
+    "url": "https://camunda.com",
+    "position": "Software Engineer",
+    "from": "10-2018",
+    "to": "08-2022",
+    "logo": "/assets/camunda.png"
+  },
+  {
+    "name": "HPI Schul-Cloud",
+    "url": "https://schul-cloud.org",
+    "position": "Software Developer (Student)",
+    "from": "09-2016",
+    "to": "08-2018",
+    "logo": "/assets/schul-cloud.png"
+  },
+  {
+    "name": "HPI Business Process Technology Group",
+    "url": "https://bpt.hpi.uni-potsdam.de/Public",
+    "position": "Student Assistant",
+    "from": "09-2016",
+    "to": "04-2017",
+    "logo": "/assets/hpi.png"
+  },
+  {
+    "name": "ada Health",
+    "url": "https://ada.com",
+    "position": "Software Developer (Student)",
+    "from": "03-2015",
+    "to": "08-2016",
+    "logo": "/assets/ada.png"
+  },
+  {
+    "name": "andserve",
+    "url": "https://andserve.it",
+    "position": "Software Developer",
+    "from": "05-2014",
+    "to": "09-2016",
+    "logo": "/assets/andserve.png"
+  },
+  {
+    "name": "smartnweb",
+    "url": "https://smartnweb.de",
+    "position": "Tech Blogger",
+    "from": "03-2014",
+    "to": "01-2015",
+    "logo": "/assets/smartnweb.png"
+  }
 ]
