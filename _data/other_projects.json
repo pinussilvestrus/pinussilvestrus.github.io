@@ -5,7 +5,7 @@
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
         "description": "Edit BPMN 2.0 files. Based on bpmn.io tools.",
         "language": "TypeScript",
-        "stargazers_count": 88
+        "stargazers_count": 94
     },
     {
         "organization": "camunda",
@@ -14,6 +14,14 @@
         "description": "JSON Schema for (Camunda) Element Templates",
         "language": "JavaScript",
         "stargazers_count": 7
+    },
+    {
+        "organization": "camunda",
+        "name": "form-playground",
+        "html_url": "https://github.com/camunda/form-playground",
+        "description": "Camunda Form Playground to simulate forms with input and output data.",
+        "language": "JavaScript",
+        "stargazers_count": 2
     },
     {
         "organization": "excalidraw",
