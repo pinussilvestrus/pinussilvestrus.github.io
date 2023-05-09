@@ -5,7 +5,7 @@
         "html_url": "https://github.com/bpmn-io/vs-code-bpmn-io",
         "description": "Edit BPMN 2.0 files. Based on bpmn.io tools.",
         "language": "TypeScript",
-        "stargazers_count": 94
+        "stargazers_count": 96
     },
     {
         "organization": "camunda",
@@ -13,15 +13,15 @@
         "html_url": "https://github.com/camunda/element-templates-json-schema",
         "description": "JSON Schema for (Camunda) Element Templates",
         "language": "JavaScript",
-        "stargazers_count": 7
+        "stargazers_count": 8
     },
     {
-        "organization": "camunda",
-        "name": "form-playground",
-        "html_url": "https://github.com/camunda/form-playground",
-        "description": "Camunda Form Playground to simulate forms with input and output data.",
+        "organization": "bpmn-io",
+        "name": "form-js",
+        "html_url": "https://github.com/bpmn-io/form-js",
+        "description": "View and visually edit JSON-based forms.",
         "language": "JavaScript",
-        "stargazers_count": 2
+        "stargazers_count": 228
     },
     {
         "organization": "excalidraw",
@@ -29,6 +29,6 @@
         "html_url": "https://github.com/excalidraw/excalidraw-desktop",
         "description": "An Electron wrapper for Excalidraw (Deprecated)",
         "language": "JavaScript",
-        "stargazers_count": 175
+        "stargazers_count": 177
     }
 ]
