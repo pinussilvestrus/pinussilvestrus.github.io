@@ -1,23 +1,30 @@
 [
-    {
-      "name": "UX Thinking",
-      "trainer": "artop GmbH",
-      "description": "UX Thinking (UXT) is a training concept that enables product managers, product owners, UX professionals and software developers to plan and implement digital development projects in interdisciplinary teams in an agile and human-centered manner.",
-      "date": "11-2020",
-      "logo": "/assets/artop.png"
-    },
-    {
-      "name": "Camunda BPM for Java-Developers",
-      "description": "Three-day training for developers to prepare using the open source Camunda BPM platform successfully in software projects.",
-      "trainer": "camunda services GmbH",
-      "date": "04-2019",
-      "logo": "/assets/camunda.png"
-    },
-    {
-      "name": "Accessible Code",
-      "description": "In this course you will learn all there is to know about how to develop a fully accessible project by writing accessible code. In the end, it all comes down to having a different mindset and knowing how to develop in an accessible way.",
-      "trainer": "The A11Y Collective",
-      "date": "05-2022",
-      "logo": "/assets/a11ycollective.jpeg"
-    }
+  {
+    "name": "Camunda BPM for Java-Developers",
+    "description": "Three-day training for developers to prepare using the open source Camunda BPM platform successfully in software projects.",
+    "trainer": "camunda services GmbH",
+    "date": "04-2019",
+    "logo": "/assets/camunda.png"
+  },
+  {
+    "name": "UX Thinking",
+    "trainer": "artop GmbH",
+    "description": "UX Thinking (UXT) is a training concept that enables product managers, product owners, UX professionals and software developers to plan and implement digital development projects in interdisciplinary teams in an agile and human-centered manner.",
+    "date": "11-2020",
+    "logo": "/assets/artop.png"
+  },
+  {
+    "name": "Accessible Code",
+    "description": "In this course you will learn all there is to know about how to develop a fully accessible project by writing accessible code. In the end, it all comes down to having a different mindset and knowing how to develop in an accessible way.",
+    "trainer": "The A11Y Collective",
+    "date": "05-2022",
+    "logo": "/assets/a11ycollective.jpeg"
+  },
+  {
+    "name": "Certified Agile Leader® 1",
+    "description": "CAL 1 is a Scrum Alliance certification course for anyone who wants to impact an organization's journey to resiliency and success. By leading with agile skills like collaboration, team empowerment, adaptability, and continuous improvement, you'll be prepared to mentor teams to create the best products, solve enterprise-level problems, and produce outcomes that directly affect your organization's ability to thrive.",
+    "trainer": "Scrum Alliance",
+    "date": "11-2024",
+    "logo": "/assets/cal1.png"
+  }
 ]
